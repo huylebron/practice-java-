@@ -1,4 +1,4 @@
-﻿package OOP.LiteralTwo;
+package OOP.LiteralTwo;
 
 public class Solution {
     public static void main(String[] args) {

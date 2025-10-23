@@ -1,4 +1,4 @@
-﻿package OOP.LiteralTwo;
+package OOP.LiteralTwo;
 
 public class NumberRule implements  ValidationRule {
 

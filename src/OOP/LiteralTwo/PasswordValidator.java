@@ -1,4 +1,4 @@
-﻿package OOP.LiteralTwo;
+package OOP.LiteralTwo;
 
 import java.util.ArrayList;
 import java.util.List;

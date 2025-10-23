@@ -1,4 +1,4 @@
-﻿package LeetCode.Easy;
+package LeetCode.Easy;
 
 public class balancedStringSplit {
 
